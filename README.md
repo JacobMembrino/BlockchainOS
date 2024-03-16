@@ -3,16 +3,29 @@ This is an Operating System (OS) used to interact with and securely store blockc
 
 ## Tools 
 Start by installing VScode with these extensions:
+
   --> Amiga C/C++ Compile, Debug & Profile
+  
   --> Cortex-Debug
+  
   --> C/C++ Extension Pack
+  
   --> Code Runner
+  
   --> GDB Debug
+  
   --> GDB syntax
+  
   --> GDB with GPU Debug Support for Intel® oneAPI Toolkits
+  
   --> Lua
+  
   --> MemoryView
+  
   --> Peripheral Viewer
+  
   --> RTOS Views
+
   --> Arm toolchain for Linux
-Other tools are QEMU https://qemu.weilnetz.de/
+  
+For emulating bare-metal: QEMU https://qemu.weilnetz.de/
